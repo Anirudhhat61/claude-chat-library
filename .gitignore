@@ -1,0 +1,8 @@
+# Never commit chat data, logs or archives
+projects/
+catalog.json
+categories.json
+*.jsonl
+*.log
+__pycache__/
+.DS_Store
